@@ -1,0 +1,8 @@
+body{
+    background-image: url("../assets/BG11.jpg");
+    /* filter: blur(1px); */
+    /* -webkit-filter: blur(8px)    ; */
+    background-size: cover;
+    backdrop-filter: blur(30px);
+    height: 100vh;
+}
